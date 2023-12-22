@@ -1,0 +1,15 @@
+C:\Users\lar\source\repos\PlayerdeMusica\bin\Debug\PlayerdeMusica.exe.config
+C:\Users\lar\source\repos\PlayerdeMusica\bin\Debug\PlayerdeMusica.exe
+C:\Users\lar\source\repos\PlayerdeMusica\bin\Debug\PlayerdeMusica.pdb
+C:\Users\lar\source\repos\PlayerdeMusica\bin\Debug\Interop.WMPLib.dll
+C:\Users\lar\source\repos\PlayerdeMusica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.csproj.AssemblyReference.cache
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\Interop.WMPLib.dll
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.csproj.ResolveComReference.cache
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.Player.resources
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.Properties.Resources.resources
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.csproj.GenerateResource.cache
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.csproj.CoreCompileInputs.cache
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.exe
+C:\Users\lar\source\repos\PlayerdeMusica\obj\Debug\PlayerdeMusica.pdb
