@@ -1,0 +1,10 @@
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\bin\Debug\AplicativodeNotasdeLembrete.exe.config
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\bin\Debug\AplicativodeNotasdeLembrete.exe
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\bin\Debug\AplicativodeNotasdeLembrete.pdb
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\obj\Debug\AplicativodeNotasdeLembrete.csproj.AssemblyReference.cache
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\obj\Debug\AplicativodeNotasdeLembrete.Properties.Resources.resources
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\obj\Debug\AplicativodeNotasdeLembrete.csproj.GenerateResource.cache
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\obj\Debug\AplicativodeNotasdeLembrete.csproj.CoreCompileInputs.cache
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\obj\Debug\AplicativodeNotasdeLembrete.exe
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\obj\Debug\AplicativodeNotasdeLembrete.pdb
+C:\Users\lar\source\repos\AplicativodeNotasdeLembrete\obj\Debug\AplicativodeNotasdeLembrete.formlembrete.resources
