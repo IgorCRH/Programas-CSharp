@@ -1,0 +1,12 @@
+C:\Users\lar\source\repos\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\lar\source\repos\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\lar\source\repos\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.csproj.AssemblyReference.cache
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.Form1.resources
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\lar\source\repos\SearchEngine\bin\Debug\MySql.Data.DLL
+C:\Users\lar\source\repos\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
